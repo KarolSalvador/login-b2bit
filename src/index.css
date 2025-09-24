@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@theme {
+  --color-b2bit-blue: #02274a;
+  --color--b2bit-yellow: #fdcf00;
+}
